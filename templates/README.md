@@ -13,7 +13,7 @@ Kyrox Studio'nun Instagram ve LinkedIn şablonları. Kurallar: `kyrox-platform/s
 | `li-vaka-calismasi` | 1200 × 1500 | LinkedIn vaka çalışması |
 | `li-kapak` | 1584 × 396 | LinkedIn şirket kapağı; sol 420 px profil fotoğrafı için boş |
 
-- `*.html`: tarayıcıda açılan kaynak. Köşeli parantezli alanları (`[ALAN] m²`, `[PROJE FOTOĞRAFI]`) doldur; logolar `../logo/svg/` dosyalarına bağlı.
+- `*.html`: tarayıcıda açılan kaynak. Köşeli parantezli alanları (`[ALAN] m²`, `[PROJE FOTOĞRAFI]`) doldur; logo kullanan şablonlar `../logo/svg/` dosyalarına bağlı (`ig-soz-karti` ve `li-kapak` logo dosyası kullanmaz).
 - `png/`: boş şablonların gerçek ölçüde görüntüsü; Canva veya Figma'ya altlık olarak atılabilir.
 - Düzenlenebilir hali Claude'daki "Kyrox Sosyal Medya Şablonları" tasarım tuvalindedir; bir şablon orada değişirse bu klasör de güncellenir.
 
