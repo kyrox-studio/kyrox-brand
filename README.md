@@ -34,6 +34,6 @@ tools/          Logoyu vektör kaynaktan yeniden üreten betikler
 2. `tools/` altında `python3 build.py` (SVG) ve `python3 png.py` (PNG, Playwright + Chromium gerekir) çalıştırılır; çıktı `tools/out/` altına yazılır ve `logo/` altına kopyalanır.
 3. Bu repoya PR açılır, ardından ürün repolarına ayrı PR'lar.
 
-`.studio` yazısı Inter Medium fontuyla üretilir; yeniden üretmek için Inter'in kurulu olması gerekir.
+Logo, ikon ve yazı şekilleri `tools/paths.json` içindeki hazır vektör yollarından üretilir; yazı tipi kurulu olması gerekmez.
 
 Proje fotoğrafları, render'lar ve videolar bu repoya girmez.
